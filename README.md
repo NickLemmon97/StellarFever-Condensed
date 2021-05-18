@@ -6,6 +6,6 @@ I worked on a capstone game for college.  This is the collection of code that I 
 It includes the Editor Only module which I had set up so we could include functional testing.
 
 # Key components include
-Player Module
-Menu Module
-Networking Setup
+Player Module |
+Menu Module |
+Networking Setup |
