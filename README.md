@@ -1,5 +1,6 @@
 # StellarFever-Condensed
-A SOURCE CODE only compilation of the code that I wrote for Stellar Fever
+A SOURCE CODE only compilation of the code that I wrote for Stellar Fever.  This project WILL NOT compile or run properly.  
+It has been stripped down to the key components that I worked on while leaving very little code written by other programmers
 
 # About
 I worked on a capstone game for college.  This is the collection of code that I wrote for the game. 
